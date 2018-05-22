@@ -15,19 +15,14 @@ To do:
 
 If you use any of this data, please cite the following paper(s):
 
-
+'''
 @article{quantitative-2018,
-
   title={Quantitative Fine-Grained Human Evaluation of Machine Translation Systems: a Case Study on English to Croatian},
-  
   author={Filip Klubi\v{c}ka and Antonio Toral and V\'{i}ctor M. S\'{a}nchez-Cartagena},
-  
   journal={Machine Translation},
-  
   year={2018}
-  
 }
-
+'''
 https://arxiv.org/pdf/1802.01451.pdf
 
 
