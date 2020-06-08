@@ -23,8 +23,7 @@ If you use any of this data, please cite the following paper(s):
   year={2018}
 }
 ```
-https://arxiv.org/pdf/1802.01451.pdf
-
+You can download the paper [here](https://arxiv.org/pdf/1802.01451.pdf).
 ```
 @article{fine-grained-2017,
   title={Fine-grained human evaluation of neural versus phrase-based machine translation},
@@ -36,4 +35,6 @@ https://arxiv.org/pdf/1802.01451.pdf
   pages={121-132}
 }
 ```
-https://arxiv.org/pdf/1706.04389.pdf
+You can download the paper [here](https://arxiv.org/pdf/1706.04389.pdf).
+
+
