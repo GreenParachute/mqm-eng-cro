@@ -1,4 +1,4 @@
-# Instructions on usnig
+# Instructions for using the code
 
 These scripts conduct the statistical analysis on the MQM output to extract annotations and calculate Inter-Annotator Agreement.
 
