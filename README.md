@@ -1,19 +1,15 @@
 # mqm-eng-cro
-Repository of MQM error annotations of 100 sentences translated from English to Croatian by three different MT systems, annotated by two different annotators.
 
-This repository contains the following files:
+This repository contains supplementary material used in research working with MQM error annotations on the English-Croatian translation pair.
 
-- source text and reference translation
-- MT ouptuts
-- MQM annotations by annotator1
-- MQM annotations by annotator2
+The annotations folder contains MQM error annotations of 100 sentences translated from English to Croatian by three different MT systems, annotated by two different annotators.
 
-To do:
-- add the codebase to calculate IAA and MQM annotation normalisation
+The scripts folder contains the original code to calculate inter-annotator agreement (IAA) and MQM annotation normalisation. Consult the readme for details on running the code.
+If you'd prefer to work with a more streamlined version of the code, Yuying Ye has been kind enough to do some refactoring. I suggest checking out the GitHub repository (it also has annotation data for English-Chinese!) 
 
 # Citation:
 
-If you use any of this data, please cite the following paper(s):
+If you use any of this data or code, please cite the following paper(s):
 
 ```
 @article{quantitative-2018,
@@ -36,5 +32,3 @@ You can download the paper [here](https://arxiv.org/pdf/1802.01451.pdf).
 }
 ```
 You can download the paper [here](https://arxiv.org/pdf/1706.04389.pdf).
-
-
