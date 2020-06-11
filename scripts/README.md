@@ -1,11 +1,11 @@
-### Instructions on how to use the scripts to extract annotations and calculate Inter-Annotator Agreement
+# Instructions on usnig
 
-These scripts conduct the statistical analysis on the MQM output.
+These scripts conduct the statistical analysis on the MQM output to extract annotations and calculate Inter-Annotator Agreement.
 
 Note: This is the original code that was written back in 2017 in Python 2.7. 
 If you'd prefer to work with a more streamlined and up-to-date version of the code, Yuying Ye has been kind enough to do some refactoring. I wholeheartedly recommend checking out [this GitHub repository](https://github.com/yy-ye/mqm-analysis) for scripts that work with Python 3.* and make it easier to run. (Plus, it also contains annotation data for English-Chinese!)
 
-## Running the code:
+### Running the code:
 
 1. For starters you need the annotated .csv file exported from translate5 (e.g. "m3-fm.en-hr.translate5_rnd_wquote.csv")
 
